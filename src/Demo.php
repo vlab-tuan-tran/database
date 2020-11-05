@@ -8,7 +8,7 @@ class SayHello
 {
 	public function hello()
 	{
-		return echo 'chao Vlab';
+		return 'chao Vlab';
 	}
 }
 ?>
