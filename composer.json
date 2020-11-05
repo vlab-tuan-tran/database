@@ -1,0 +1,16 @@
+{
+    "name": "vlab/database",
+    "type": "library",
+    "description": "the package database",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tran_le_tuan",
+            "email": "tltuan@vlab.tech",
+            "homepage": "https://vlab.tech/",
+            "role": "Developer"
+        }
+    ],
+}
