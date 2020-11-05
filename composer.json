@@ -1,16 +1,14 @@
 {
-    "name": "vlab/database",
-    "type": "library",
+    "name": "trantuan/demo_package",
     "description": "the package database",
-    "keywords": ["relevant","tags","go","here"],
-    "homepage": "https://yourcompany.com",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "tran_le_tuan",
-            "email": "tltuan@vlab.tech",
-            "homepage": "https://vlab.tech/",
-            "role": "Developer"
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+    	"php": "^7.2.5",
+    },
+    "autoload": {
+        "psr-4": {
+            "vlab\\Demo\\": "src/"
         }
-    ],
+    }
 }
